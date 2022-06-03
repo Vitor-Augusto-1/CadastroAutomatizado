@@ -1,0 +1,15 @@
+Comandos Utilizados
+
+biblioteca > pyautogui > py
+biblioteca > time > tm
+biblioteca > pyperclip
+
+py.alert = ele aparece um alerta para o usuario com a mensagem que você escolher
+py.hotkey > teclado = ele faz a combinação de teclas
+py.write > teclado = escreve o texto que digitar
+py.press > teclado = aperta uma tecla
+py.click > mouse = clica na tela 
+py.position > tela - dar as cordenadas da posição da mouse na tela 
+
+tm.sleep = dar uma pausa do comando 
+pyperclip = pyperclip para copiar e colar por conta que o pyautogui nao suporta links
